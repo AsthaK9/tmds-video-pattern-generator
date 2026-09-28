@@ -1,0 +1,5 @@
+out/sim_*
+out/obj_*
+*.vvp
+__pycache__/
+.DS_Store
